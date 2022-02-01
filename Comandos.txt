@@ -1,0 +1,9 @@
+========================================================== COMANDOS ==========================================================
+
+° npx create-react-app [nombre_proyecto]: Comando utilizado para crear un proyecto de React.
+
+° npm install react-router-dom@5.2.0: Comando utilizado para instalar la ultima versión del paquete para enrutar los componentes.
+
+° npm install bootstrap --save: Comando utilizado para instalar la ultima versión de Bootstrap.
+
+° npm run start: Comando utilizado para hacer correr el servidor de React. El servidor corre por defecto en el navegador con la dirección localhost:3000

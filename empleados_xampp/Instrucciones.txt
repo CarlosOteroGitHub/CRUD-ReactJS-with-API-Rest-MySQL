@@ -1,0 +1,3 @@
+1. Crear en la carpeta htdocs de XAMPP una carpeta de nombre "empleados" y copiar el contenido de la presente carpeta.
+
+2. Posteriormente ingrese en http://localhost/phpmyadmin/ cree una base de datos de nombre "empleado_react_db" e importe la base de datos "empleados.sql"
